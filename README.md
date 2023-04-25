@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @woodword-0
-- 👀 I’m interested in applications of pure math to machine learning, music, art and gaming
-- 🌱 I’m currently learning pygame
+- 👀 I have a PhD in mathematics and I am a mathematician and data scientist by trade. I am interested in applications of pure math to better understanding the mechanisms underlying data, machine learning, music, art and gaming
+- 🌱 I’m currently learning about Schemes in Algebraic Geometry (but I am Differential Geometer)
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me woodword1979@gmail.com
 
